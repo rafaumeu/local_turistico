@@ -60,7 +60,7 @@ section span {
   padding-bottom: 40px;
 }
 
-img {
+#content-list img {
   border-radius: 28px;
   width: 100%;
 }
@@ -137,4 +137,5 @@ footer {
 
 footer img {
   vertical-align: middle;
+  height: 16px
 }
