@@ -45,7 +45,6 @@
   flex-direction: column;
   align-items: flex-start;
 }
-
 section span {
   color: var(--text-headline);
   text-transform: uppercase;
@@ -66,8 +65,12 @@ section span {
 }
 
 
+.description img {
+  width: 100%;
+  border-radius: 28px;
+}
 .description p {
-
+  
   padding-block: 24px 40px;
 }
 #content-list hr {
