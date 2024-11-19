@@ -1,4 +1,4 @@
-# README - Projeto Local Turístico: Conheça Busan
+# Projeto Local Turístico: Conheça Busan
 
 ## Descrição do Projeto
 
